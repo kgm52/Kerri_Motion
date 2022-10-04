@@ -1,0 +1,80 @@
+#hero{
+    background-image: url("../img/hero-socks.jpg");
+    background-size: cover;
+    background-position: center bottom;
+    height: 90vh;
+
+    #overlay{
+        justify-content: center;
+        align-items: center;
+        background-color: rgba(var(--yellow0),0.4);
+        height: 100%;
+        display: flex;
+
+        @include lg{
+            justify-content: left;
+            align-items: flex-end;
+        }
+
+        section{
+            margin: 0;
+
+            @include lg{
+                margin-left: 36px;
+                margin-bottom: 12px;
+            }
+
+            button{
+                border: none;
+                border-radius: 8px;
+                outline: 2.5px solid black;
+                background-color: transparent;
+                margin-bottom: 12px;
+                font-family: 'Comfortaa', cursive;
+                font-weight: 400;
+                font-size: rem-calc(14px);
+                padding: 18px;
+                padding-bottom: 10px;
+                padding-top: 10px;
+                cursor: pointer;
+
+                @include md{
+                    font-size: rem-calc(14px);
+                    padding: 18px;
+                    padding-bottom: 12px;
+                    padding-top: 12px;
+                }
+
+                @include lg{
+                    font-size: rem-calc(16px);
+                }
+                
+                @include xl{
+                    font-size: rem-calc(18px);
+                    padding: 24px;
+                    padding-bottom: 12px;
+                    padding-top: 12px;
+                }
+            }
+
+            h1{
+                color: black;
+                font-family: 'Comfortaa', cursive;
+                font-weight: 600;
+                font-size: rem-calc(42px);
+
+                @include md{
+                    font-size: rem-calc(54px);
+                }
+
+                @include lg{
+                    font-size: rem-calc(54px);
+                }
+                
+                @include xl{
+                    font-size: rem-calc(64px);
+                }
+            }
+        }
+    }
+}
