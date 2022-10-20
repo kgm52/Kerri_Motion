@@ -9,9 +9,12 @@
 
     #overlay{
         justify-content: center;
-        align-items: center;
         display: flex;
         font-size: 72px;
         font-weight: 600;
+
+        h1{
+            margin: auto;
+        }
     }
 }

@@ -542,10 +542,12 @@ footer > div ul li a:visited:active {
 }
 #hero #overlay {
   justify-content: center;
-  align-items: center;
   display: flex;
   font-size: 72px;
   font-weight: 600;
+}
+#hero #overlay h1 {
+  margin: auto;
 }
 
 /* =============
