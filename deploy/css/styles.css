@@ -395,7 +395,7 @@ textarea {
   font-weight: 600;
 }
 #hero #overlay h1 {
-  margin: auto;
+  padding-top: 360px;
 }
 
 /* =============
@@ -409,6 +409,7 @@ textarea {
   display: grid;
   grid-template-columns: 50% 50%;
   align-items: center;
+  justify-items: center;
 }
 #sect1 #grid img {
   height: 800px;
@@ -427,16 +428,15 @@ textarea {
   background-size: cover;
 }
 #sect2 #grid {
-  display: grid;
-  grid-template-columns: 25% 25% 25% 25%;
-  justify-items: center;
+  display: flex;
+  justify-content: space-between;
 }
 #sect2 #grid #square1 {
   background: #ffa2ba;
   width: 100px;
   height: 100px;
 }
-#sect2 #grid #circle {
+#sect2 #grid #circle1 {
   background: #ffa2ba;
   border-radius: 50%;
   width: 100px;
@@ -447,15 +447,40 @@ textarea {
   width: 100px;
   height: 100px;
 }
-#sect2 #grid #triangle {
+#sect2 #grid #triangle1 {
   width: 0;
   height: 0;
   border-left: 60px solid transparent;
   border-right: 60px solid transparent;
-  border-bottom: 100px solid #ffa2ba;
+  border-top: 100px solid #ffa2ba;
+}
+#sect2 #grid #circle2 {
+  background: #ffa2ba;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+#sect2 #grid #square3 {
+  background: #ffa2ba;
+  width: 100px;
+  height: 100px;
+}
+#sect2 #grid #circle3 {
+  background: #ffa2ba;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+#sect2 #grid #triangle2 {
+  width: 0;
+  height: 0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-top: 100px solid #ffa2ba;
 }
 #sect2 h2 {
-  padding: 144px;
+  padding: 80px;
+  padding-bottom: 144px;
   font-size: 96px;
   font-weight: 300;
   text-align: center;
@@ -472,6 +497,7 @@ textarea {
   display: grid;
   grid-template-columns: 50% 50%;
   align-items: center;
+  justify-items: center;
 }
 #sect3 #grid img {
   height: 800px;

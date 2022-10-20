@@ -6,9 +6,8 @@
     background-size: cover;
 
     #grid {
-        display: grid;
-        grid-template-columns: 25% 25% 25% 25%;
-        justify-items: center;
+        display: flex;
+        justify-content: space-between;
 
         #square1 {
             background: #ffa2ba;
@@ -16,7 +15,7 @@
             height: 100px;
         }
     
-        #circle {
+        #circle1 {
             background: #ffa2ba;
             border-radius: 50%;
             width: 100px;
@@ -29,17 +28,47 @@
             height: 100px;
         }
     
-        #triangle {
+        #triangle1 {
             width: 0;
             height: 0;
             border-left: 60px solid transparent;
             border-right: 60px solid transparent;
-            border-bottom: 100px solid #ffa2ba;
+            border-top: 100px solid #ffa2ba;
         }
+
+        #circle2 {
+            background: #ffa2ba;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+        }
+
+        #square3 {
+            background: #ffa2ba;
+            width: 100px;
+            height: 100px;
+        }
+
+
+        #circle3 {
+            background: #ffa2ba;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+        }
+
+        #triangle2 {
+            width: 0;
+            height: 0;
+            border-left: 60px solid transparent;
+            border-right: 60px solid transparent;
+            border-top: 100px solid #ffa2ba;
+            }
     }
 
     h2{
-        padding: 144px;
+        padding: 80px;
+        padding-bottom: 144px;
         font-size: 96px;
         font-weight: 300;
         text-align: center;
