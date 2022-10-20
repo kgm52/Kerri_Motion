@@ -1,3 +1,47 @@
 /* =============
     Section2
 ============= */
+#sect2 {
+    background-color: #faea59;
+    background-size: cover;
+
+    #grid {
+        display: grid;
+        grid-template-columns: 25% 25% 25% 25%;
+        justify-items: center;
+
+        #square1 {
+            background: #ffa2ba;
+            width: 100px;
+            height: 100px;
+        }
+    
+        #circle {
+            background: #ffa2ba;
+            border-radius: 50%;
+            width: 100px;
+            height: 100px;
+        }
+    
+        #square2 {
+            background: #ffa2ba;
+            width: 100px;
+            height: 100px;
+        }
+    
+        #triangle {
+            width: 0;
+            height: 0;
+            border-left: 60px solid transparent;
+            border-right: 60px solid transparent;
+            border-bottom: 100px solid #ffa2ba;
+        }
+    }
+
+    h2{
+        padding: 144px;
+        font-size: 96px;
+        font-weight: 300;
+        text-align: center;
+    }
+}

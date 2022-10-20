@@ -542,7 +542,7 @@ footer > div ul li a:visited:active {
 }
 #hero #overlay {
   justify-content: center;
-  align-content: center;
+  align-items: center;
   display: flex;
   font-size: 72px;
   font-weight: 600;
@@ -551,9 +551,83 @@ footer > div ul li a:visited:active {
 /* =============
     Section1
 ============= */
+#sect1 {
+  background-color: #2cc6ba;
+  background-size: cover;
+}
+#sect1 #grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+}
+#sect1 #grid img {
+  height: 800px;
+  padding: 64px;
+}
+#sect1 #grid h3 {
+  font-size: 64px;
+  text-align: center;
+}
+
 /* =============
     Section2
 ============= */
+#sect2 {
+  background-color: #faea59;
+  background-size: cover;
+}
+#sect2 #grid {
+  display: grid;
+  grid-template-columns: 25% 25% 25% 25%;
+  justify-items: center;
+}
+#sect2 #grid #square1 {
+  background: #ffa2ba;
+  width: 100px;
+  height: 100px;
+}
+#sect2 #grid #circle {
+  background: #ffa2ba;
+  border-radius: 50%;
+  width: 100px;
+  height: 100px;
+}
+#sect2 #grid #square2 {
+  background: #ffa2ba;
+  width: 100px;
+  height: 100px;
+}
+#sect2 #grid #triangle {
+  width: 0;
+  height: 0;
+  border-left: 60px solid transparent;
+  border-right: 60px solid transparent;
+  border-bottom: 100px solid #ffa2ba;
+}
+#sect2 h2 {
+  padding: 144px;
+  font-size: 96px;
+  font-weight: 300;
+  text-align: center;
+}
+
 /* =============
     Section3
 ============= */
+#sect3 {
+  background-color: #ffa2ba;
+  background-size: cover;
+}
+#sect3 #grid {
+  display: grid;
+  grid-template-columns: 50% 50%;
+  align-items: center;
+}
+#sect3 #grid img {
+  height: 800px;
+  padding: 64px;
+}
+#sect3 #grid h3 {
+  font-size: 64px;
+  text-align: center;
+}
