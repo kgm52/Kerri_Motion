@@ -21,52 +21,12 @@
       "oF" : 0,
       "pg" : 0
     },
-    "\/deploy\/img\/footer\/facebook.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/footer\/facebook.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/footer\/instagram.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/footer\/instagram.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/footer\/twitter.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/footer\/twitter.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/header\/logo.svg" : {
-      "ft" : 2097152,
-      "miP" : 0,
-      "oA" : 2,
-      "oAP" : "\/deploy\/img\/header\/logo.svg",
-      "oF" : 0,
-      "opt" : 0,
-      "plM" : 52780316221407,
-      "prP" : 0
-    },
-    "\/deploy\/img\/hero-2\/hero.jpg" : {
+    "\/deploy\/img\/fashion1.jpeg" : {
       "ft" : 16384,
-      "iS" : 247748,
+      "iS" : 148334,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero-2\/hero.jpg",
+      "oAP" : "\/deploy\/img\/fashion1.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -74,12 +34,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/hero\/hero.jpg" : {
+    "\/deploy\/img\/fashion2.jpeg" : {
       "ft" : 16384,
-      "iS" : 338321,
+      "iS" : 209790,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/hero\/hero.jpg",
+      "oAP" : "\/deploy\/img\/fashion2.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -87,12 +47,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/history\/hero.jpg" : {
+    "\/deploy\/img\/fashion3.jpeg" : {
       "ft" : 16384,
-      "iS" : 15971,
+      "iS" : 156648,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/history\/hero.jpg",
+      "oAP" : "\/deploy\/img\/fashion3.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -100,12 +60,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/history\/history.jpg" : {
+    "\/deploy\/img\/fashion4.jpeg" : {
       "ft" : 16384,
-      "iS" : 18964,
+      "iS" : 178488,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/history\/history.jpg",
+      "oAP" : "\/deploy\/img\/fashion4.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -113,90 +73,12 @@
       "q" : 100,
       "rq" : 75
     },
-    "\/deploy\/img\/skills\/robot.jpg" : {
+    "\/deploy\/img\/hero.jpg" : {
       "ft" : 16384,
-      "iS" : 118148,
+      "iS" : 266133,
       "jF" : 0,
       "oA" : 0,
-      "oAP" : "\/deploy\/img\/skills\/robot.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-1.jpg" : {
-      "ft" : 16384,
-      "iS" : 159219,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-1.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-2.jpg" : {
-      "ft" : 16384,
-      "iS" : 89774,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-2.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-3.jpg" : {
-      "ft" : 16384,
-      "iS" : 136768,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-3.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-4.jpg" : {
-      "ft" : 16384,
-      "iS" : 181356,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-4.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-5.jpg" : {
-      "ft" : 16384,
-      "iS" : 43962,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-5.jpg",
-      "oF" : 0,
-      "oIPL" : 0,
-      "opt" : 0,
-      "ou" : "lpckwebp-none",
-      "q" : 100,
-      "rq" : 75
-    },
-    "\/deploy\/img\/skynet\/gallery-6.jpg" : {
-      "ft" : 16384,
-      "iS" : 136159,
-      "jF" : 0,
-      "oA" : 0,
-      "oAP" : "\/deploy\/img\/skynet\/gallery-6.jpg",
+      "oAP" : "\/deploy\/img\/hero.jpg",
       "oF" : 0,
       "oIPL" : 0,
       "opt" : 0,
@@ -231,14 +113,6 @@
       "oAP" : "\/design\/structure-tags.sketch",
       "oF" : 0
     },
-    "\/dev\/content\/hero-2.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/content\/hero-2.html",
-      "oF" : 0
-    },
     "\/dev\/content\/hero.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -247,36 +121,28 @@
       "oAP" : "\/dev\/content\/hero.html",
       "oF" : 0
     },
-    "\/dev\/content\/history.kit" : {
+    "\/dev\/content\/section1.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/history.html",
+      "oAP" : "\/dev\/content\/section1.html",
       "oF" : 0
     },
-    "\/dev\/content\/skills.kit" : {
+    "\/dev\/content\/section2.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/skills.html",
+      "oAP" : "\/dev\/content\/section2.html",
       "oF" : 0
     },
-    "\/dev\/content\/skynet.kit" : {
+    "\/dev\/content\/section3.kit" : {
       "cB" : 0,
       "ft" : 2048,
       "hM" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/content\/skynet.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/footer.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/global\/footer.html",
+      "oAP" : "\/dev\/content\/section3.html",
       "oF" : 0
     },
     "\/dev\/global\/head.kit" : {
@@ -285,14 +151,6 @@
       "hM" : 0,
       "oA" : 1,
       "oAP" : "\/dev\/global\/head.html",
-      "oF" : 0
-    },
-    "\/dev\/global\/header.kit" : {
-      "cB" : 0,
-      "ft" : 2048,
-      "hM" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/global\/header.html",
       "oF" : 0
     },
     "\/dev\/global\/scripts.kit" : {
@@ -593,7 +451,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 638898965.76008201,
-    "displayValue" : "Motion-F22-PM",
+    "displayValue" : "Kerri_Motion",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-koamaru",
     "iconImageWasSetByUser" : 0
