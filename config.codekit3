@@ -330,21 +330,6 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_hero-2.scss" : {
-      "aP" : 0,
-      "bl" : 0,
-      "co" : 0,
-      "dP" : 10,
-      "ec" : 1,
-      "ft" : 4,
-      "ma" : 0,
-      "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_hero-2.css",
-      "oF" : 0,
-      "oS" : 0,
-      "pg" : 0,
-      "sct" : 0
-    },
     "\/dev\/scss\/sections\/_hero.scss" : {
       "aP" : 0,
       "bl" : 0,
@@ -360,7 +345,7 @@
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_history.scss" : {
+    "\/dev\/scss\/sections\/_section1.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -369,13 +354,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_history.css",
+      "oAP" : "\/dev\/scss\/sections\/_section1.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_skills.scss" : {
+    "\/dev\/scss\/sections\/_section2.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -384,13 +369,13 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_skills.css",
+      "oAP" : "\/dev\/scss\/sections\/_section2.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,
       "sct" : 0
     },
-    "\/dev\/scss\/sections\/_skynet.scss" : {
+    "\/dev\/scss\/sections\/_section3.scss" : {
       "aP" : 0,
       "bl" : 0,
       "co" : 0,
@@ -399,7 +384,7 @@
       "ft" : 4,
       "ma" : 0,
       "oA" : 1,
-      "oAP" : "\/dev\/scss\/sections\/_skynet.css",
+      "oAP" : "\/dev\/scss\/sections\/_section3.css",
       "oF" : 0,
       "oS" : 0,
       "pg" : 0,

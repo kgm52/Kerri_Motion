@@ -2,12 +2,16 @@
     Hero 
 ============= */
 #hero{
-    background-image: url('../img/hero/hero.jpg');
+    background-image: url(../../../deploy/img/hero.jpg);
     background-position: center;
     background-size: cover;
-    height: 360px;
+    height: 1000px;
 
-    @include md {
-        height: 683px;
+    #overlay{
+        justify-content: center;
+        align-content: center;
+        display: flex;
+        font-size: 72px;
+        font-weight: 600;
     }
 }
