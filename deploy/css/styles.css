@@ -327,13 +327,17 @@ template {
 /* =============
     Base
 ============= */
-body {
-  background-color: #000;
+.hide {
+  display: none;
 }
 
 /* =============
     Typography
 ============= */
+body {
+  font-family: "Montserrat", sans-serif;
+}
+
 /* =============
     Buttons
 ============= */
@@ -364,11 +368,27 @@ textarea {
 /* =============
     Footer
 ============= */
-#svg {
+#drawSVG-container {
+  min-height: 100vh;
   display: grid;
-  grid-template-columns: auto 1200px auto;
-  grid-template-areas: ". svg .";
+  grid-template-rows: repeat(3, 1fr);
 }
-#svg div {
-  grid-area: svg;
+#drawSVG-container .drawSVG {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
+#drawSVG-container .drawSVG .title {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#drawSVG-container .drawSVG .svg {
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+#drawSVG-container .drawSVG .svg svg {
+  width: 100%;
 }
