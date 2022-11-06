@@ -30,6 +30,6 @@ function toggleAnimation(){
 }
 
 var mainTl = gsap.timeline();
-mainTl.add(toggleAnimation())
-.add(simpleAnimation())
-.add(patternAnimation());
+mainTl.add(simpleAnimation())
+.add(patternAnimation())
+.add(toggleAnimation());
