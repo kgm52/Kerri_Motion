@@ -1,0 +1,1 @@
+import{gsap}from"gsap";import{DrawSVGPlugin}from"gsap/DrawSVGPlugin";import{GSDevTools}from"gsap/GSDevTools";function toggleAnimation(){var a=gsap.timeline();return a.from("#happy-face",{duration:1,drawSVG:"0%"}),a}gsap.registerPlugin(DrawSVGPlugin,GSDevTools);var mainTl=gsap.timeline();mainTl.add(toggleAnimation());
