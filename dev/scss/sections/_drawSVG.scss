@@ -22,15 +22,12 @@
             align-items: center;
             svg{
                 width: 100%;
-
-                .button{
-                    cursor: pointer;
-                }
             }
         }
     }
 
-    .grow-right{
-        // display: none;
+    #button{
+        height: 100%;
+        cursor: pointer;
     }
 }

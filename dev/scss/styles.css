@@ -392,6 +392,7 @@ textarea {
 #drawSVG-container .drawSVG .svg svg {
   width: 100%;
 }
-#drawSVG-container .drawSVG .svg svg .button {
+#drawSVG-container #button {
+  height: 100%;
   cursor: pointer;
 }
