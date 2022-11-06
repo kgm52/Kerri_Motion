@@ -1,0 +1,18 @@
+<svg width="842" height="595" viewBox="0 0 842 595" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="frame-1">
+<rect width="842" height="595" fill="white"/>
+<rect id="button" x="246" y="218" width="311" height="158" rx="79" fill="#252525"/>
+<g id="happy-face">
+<circle id="happy-circle" cx="479" cy="297" r="58" fill="#FFEB35"/>
+<path id="smile" d="M446 312.182C450.5 331.818 470 334 479 334C487.5 334 507 330.182 511 312.182M439 310C444.663 312.619 447.837 312.391 453.5 310M503.5 310C509.163 312.619 512.337 312.391 518 310" stroke="black" stroke-width="4"/>
+<rect id="happy-eye" x="454" y="266" width="12" height="28" rx="6" fill="black"/>
+<rect id="happy-eye_2" x="491" y="266" width="12" height="28" rx="6" fill="black"/>
+</g>
+<g id="sad-face">
+<circle id="sad-circle" cx="325" cy="297" r="58" fill="#77BEFF"/>
+<path id="frown" d="M292 326.182C296.5 309.818 316 308 325 308C333.5 308 353 311.182 357 326.182M285 328C290.663 325.818 293.837 326.007 299.5 328M349.5 328C355.163 325.818 358.337 326.007 364 328" stroke="black" stroke-width="4"/>
+<rect id="sad-eye" x="300" y="266" width="12" height="28" rx="6" fill="black"/>
+<rect id="sad-eye_2" x="337" y="266" width="12" height="28" rx="6" fill="black"/>
+</g>
+</g>
+</svg>
