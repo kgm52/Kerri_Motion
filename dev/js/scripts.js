@@ -11,14 +11,14 @@ function simpleAnimation(){
     var tl = gsap.timeline();
     tl.to("#line", {duration:1, drawSVG:"true"})
     .to("#small-circle", {duration:1, scale:2, x:350})
-    .to("#large-circle", {duration:1, scale:0.5, x:-350});
+    .to("#large-circle", {duration:1, scale:0.5, x:-350}, "<");
     return tl;
 }
 
 
 function patternAnimation(){
     var tl = gsap.timeline();
-    tl.from(".square",{duration:0.5, drawSVG:0, stagger:0.25, transformOrigin:"center"},"playPattern");
+    tl.from(".square",{duration:1, drawSVG:0, stagger:0.25, transformOrigin:"center"},"playPattern");
     return tl;
 }
 
