@@ -20,14 +20,37 @@
             display: flex;
             justify-content: center;
             align-items: center;
+            overflow: hidden;
             svg{
                 width: 100%;
             }
         }
     }
 
-    #button{
-        height: 100%;
+    #sad-face{
+        overflow: visible;
+        opacity: 1;
+    }
+
+    #start-s{
         cursor: pointer;
     }
+
+    #end-s{
+        visibility: hidden;
+    }
+
+    #happy-face{
+        overflow: visible;
+        opacity: 0;
+    }
+
+    #start-h{
+        cursor: pointer;
+    }
+
+    #end-h{
+        visibility: hidden;
+    }
+
 }

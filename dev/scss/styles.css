@@ -388,11 +388,28 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 #drawSVG-container .drawSVG .svg svg {
   width: 100%;
 }
-#drawSVG-container #button {
-  height: 100%;
+#drawSVG-container #sad-face {
+  overflow: visible;
+  opacity: 1;
+}
+#drawSVG-container #start-s {
   cursor: pointer;
+}
+#drawSVG-container #end-s {
+  visibility: hidden;
+}
+#drawSVG-container #happy-face {
+  overflow: visible;
+  opacity: 0;
+}
+#drawSVG-container #start-h {
+  cursor: pointer;
+}
+#drawSVG-container #end-h {
+  visibility: hidden;
 }

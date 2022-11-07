@@ -28,7 +28,6 @@ function patternAnimation(){
 
 // function toggleAnimation(){
 //     var tl = gsap.timeline();
-//     tl.to("#happy-face", {duration:1, x:-100});
 //     return tl;
 // }
 
