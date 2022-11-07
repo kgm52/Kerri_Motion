@@ -10,8 +10,10 @@ gsap.registerPlugin(DrawSVGPlugin, GSDevTools);
 function simpleAnimation(){
     var tl = gsap.timeline();
     tl.from("#line", {duration:1, drawSVG:"50% 50%"})
-    .to("#small-circle", {duration:2, scale:2, x:280})
-    .to("#large-circle", {duration:1, scale:0.5, x:-280}, "-=1");
+    .to("#small-circle", {duration:2, scale:2, x:320, transformOrigin:"bottom"})
+    .to("#large-circle", {duration:1, scale:0.45, x:-270, transformOrigin:"bottom"}, "-=1")
+    .to("#small-circle", {duration:1, fill:"#000"})
+    .to("#line", {duration:1, drawSVG:"50% 50%"}, "-=1");
     return tl;
 }
 
