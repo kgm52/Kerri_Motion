@@ -1,0 +1,32 @@
+<svg width="842" height="595" viewBox="0 0 842 595" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="toggel">
+<rect width="842" height="595" fill="white"/>
+<rect id="button" x="246" y="218" width="311" height="158" rx="79" fill="#252525"/>
+<g id="happy-face">
+<circle id="happy-circle" cx="471" cy="297" r="58" fill="#FFEB35"/>
+<path id="smile" d="M438 312.182C442.5 331.818 462 334 471 334C479.5 334 499 330.182 503 312.182M431 310C436.663 312.619 439.837 312.391 445.5 310M495.5 310C501.163 312.619 504.337 312.391 510 310" stroke="black" stroke-width="4"/>
+<rect id="happy-eye" x="446" y="266" width="12" height="28" rx="6" fill="black"/>
+<rect id="happy-eye_2" x="483" y="266" width="12" height="28" rx="6" fill="black"/>
+</g>
+<g id="sad-face">
+<circle id="sad-circle" cx="335" cy="297" r="58" fill="#77BEFF"/>
+<path id="frown" d="M302 326.182C306.5 309.818 326 308 335 308C343.5 308 363 311.182 367 326.182M295 328C300.663 325.818 303.837 326.007 309.5 328M359.5 328C365.163 325.818 368.337 326.007 374 328" stroke="black" stroke-width="4"/>
+<rect id="sad-eye" x="310" y="266" width="12" height="28" rx="6" fill="black"/>
+<rect id="sad-eye_2" x="347" y="266" width="12" height="28" rx="6" fill="black"/>
+</g>
+<path id="left-clip" d="M399 218H325C281.37 218 246 253.37 246 297V297C246 340.63 281.37 376 325 376H399V218Z" fill="#17D706"/>
+<g id="end-s">
+<mask id="path-11-inside-1_1_2" fill="white">
+<path d="M399 218V218C398.448 218 398 218.448 398 219V375C398 375.552 398.448 376 399 376V376V218Z"/>
+</mask>
+<path d="M399 219V375H397V219H399ZM398 376V218H400V376H398ZM399 375V375V377C397.895 377 397 376.105 397 375H399ZM399 219V219H397C397 217.895 397.895 217 399 217V219Z" fill="#252525" mask="url(#path-11-inside-1_1_2)"/>
+</g>
+<path id="right-clip" d="M404 218H478C521.63 218 557 253.37 557 297V297C557 340.63 521.63 376 478 376H404V218Z" fill="#1EFF1A"/>
+<g id="end-h">
+<mask id="path-14-inside-2_1_2" fill="white">
+<path d="M404 218V218C404.552 218 405 218.448 405 219V375C405 375.552 404.552 376 404 376V376V218Z"/>
+</mask>
+<path d="M404 219V375H406V219H404ZM405 376V218H403V376H405ZM404 375V375V377C405.105 377 406 376.105 406 375H404ZM404 219V219H406C406 217.895 405.105 217 404 217V219Z" fill="#252525" mask="url(#path-14-inside-2_1_2)"/>
+</g>
+</g>
+</svg>

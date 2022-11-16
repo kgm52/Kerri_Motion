@@ -26,12 +26,20 @@ function patternAnimation(){
 }
 
 
-// function toggleAnimation(){
-//     var tl = gsap.timeline();
-//     return tl;
-// }
+function toggleAnimation(){
+    var tl = gsap.timeline();
+    tl.from("#happy-face",{duration:1,x:-140},"same")
+    .to("#sad-face",{duration:1,x:140},"same")
+
+    return tl;
+}
 
 var mainTl = gsap.timeline();
 mainTl.add(simpleAnimation())
 .add(patternAnimation())
-// .add(toggleAnimation());
+ .add(toggleAnimation());
+
+
+ GSDevTools.create();
+
+ 
