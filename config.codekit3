@@ -40,11 +40,11 @@
       "sC" : 3,
       "tS" : 0
     },
-    "\/design\/sicilian-donkey-logo.svg" : {
+    "\/design\/custom-logo.svg" : {
       "ft" : 2097152,
       "miP" : 0,
       "oA" : 2,
-      "oAP" : "\/design\/sicilian-donkey-logo.svg",
+      "oAP" : "\/design\/custom-logo.svg",
       "oF" : 0,
       "opt" : 0,
       "plM" : 52780316221407,
@@ -304,13 +304,15 @@
       "oO" : 1,
       "oS" : 1
     },
-    "\/video\/found logo sample.mov" : {
-      "cB" : 0,
-      "ft" : 8192,
-      "hM" : 0,
+    "\/video\/custom logo concept.gif" : {
+      "ft" : 4194304,
+      "iS" : 331761,
       "oA" : 0,
-      "oAP" : "\/video\/found logo sample.mov",
-      "oF" : 0
+      "oAP" : "\/video\/custom logo concept.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
     }
   },
   "hooks" : [
