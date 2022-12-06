@@ -40,6 +40,24 @@
       "sC" : 3,
       "tS" : 0
     },
+    "\/design\/custom-logo.svg" : {
+      "ft" : 2097152,
+      "miP" : 0,
+      "oA" : 2,
+      "oAP" : "\/design\/custom-logo.svg",
+      "oF" : 0,
+      "opt" : 0,
+      "plM" : 52780316221407,
+      "prP" : 0
+    },
+    "\/dev\/content\/svg.kit" : {
+      "cB" : 0,
+      "ft" : 2048,
+      "hM" : 0,
+      "oA" : 1,
+      "oAP" : "\/dev\/content\/svg.html",
+      "oF" : 0
+    },
     "\/dev\/global\/footer.kit" : {
       "cB" : 0,
       "ft" : 2048,
@@ -256,6 +274,20 @@
       "pg" : 0,
       "sct" : 0
     },
+    "\/gsap-bonus.tgz" : {
+      "cB" : 0,
+      "ft" : 8192,
+      "hM" : 0,
+      "oA" : 0,
+      "oAP" : "\/gsap-bonus.tgz",
+      "oF" : 0
+    },
+    "\/node_modules" : {
+      "ft" : 65536,
+      "oA" : 2,
+      "oAP" : "\/node_modules",
+      "oF" : 0
+    },
     "\/package-lock.json" : {
       "ft" : 524288,
       "oA" : 1,
@@ -271,6 +303,16 @@
       "oF" : 0,
       "oO" : 1,
       "oS" : 1
+    },
+    "\/video\/custom logo concept.gif" : {
+      "ft" : 4194304,
+      "iS" : 331761,
+      "oA" : 0,
+      "oAP" : "\/video\/custom logo concept.gif",
+      "oF" : 0,
+      "opt" : 0,
+      "ou" : "lpckwebp-none",
+      "rq" : 75
     }
   },
   "hooks" : [
@@ -281,7 +323,7 @@
   },
   "projectAttributes" : {
     "creationDate" : 669227926.75338697,
-    "displayValue" : "Motion-F22-PM",
+    "displayValue" : "Kerri_Motion",
     "displayValueWasSetByUser" : 0,
     "iconImageName" : "brackets-ucla",
     "iconImageWasSetByUser" : 0
