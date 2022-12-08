@@ -77,10 +77,17 @@ function colorfillAnimation(){
     return tl;
 }
 
+function clipAnimation(){
+    var tl = gsap.timeline();
+    tl.to("#whole-clip", {duration:1, scale:0})
+    return tl;
+}
+
 
 var mainTL = gsap.timeline();
 mainTL.add(ballAnimation())
 .add(logoAnimation(), "-=1.65")
 .add(colorfillAnimation(), "-=0.25")
+.add(clipAnimation())
 
 GSDevTools.create();
